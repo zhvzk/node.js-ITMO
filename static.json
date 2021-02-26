@@ -1,8 +1,8 @@
 {
   "headers":{
-  //  "/*":{
+  
       "X-Author":"gffmpr",
       "Access-Control-Allow-Origin":"*"
- //   }
+    
   }
 }
